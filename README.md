@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ipshita Chauhan</h1>
 <h3 align="center">Tech-savvy B.Tech student from India merging AI/ML with a business mindset.</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNvZ2NqcXdlMGY0OWVwbXZvaHplMXlvbHNzcThqNWhwbHB5d252dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif”>
+<img src="Coding The Matrix.gif" alt="coding" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipshita2510&label=Profile%20views&color=0e75b6&style=flat" alt="ipshita2510" /> </p>
 
